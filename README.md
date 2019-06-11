@@ -10,4 +10,4 @@ You need to create an account on pushbullet.com, then get the Access Token from 
 In wlan.py replace with the name of your SSID and password; in push.py replace apiKey with your own.
 
 Youtube
-[![Video](https://img.youtube.com/vi/aAHSvF9e9S8/0.jpg)](https://www.youtube.com/watch?v=yzbS0v04fp8)
+[![Video](https://img.youtube.com/vi/aAHSvF9e9S8/0.jpg)](https://youtu.be/yzbS0v04fp8)
